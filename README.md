@@ -108,7 +108,7 @@ The people table is used to manage person data within the application. Person ca
 | id          | integer   | primary key |
 | name        | string    | not null    |
 
-## API Doucmentation
+## API Documentation
 
 <!-- poin at the documentaion.md in this folder -->
 [API Documentation](DOCUMENTATION.md)
