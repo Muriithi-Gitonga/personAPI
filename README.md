@@ -40,6 +40,11 @@ You can set up this repository by following this manual
 
   **Alternatively the api is hosted on railway and can be accessed [here](https://userapi-production-741d.up.railway.app/)**
 
+To test the api you can run this script in your terminal
+```{shell}
+ruby test_script/manual_test.rb   
+```
+
 See [API Documentation](DOCUMENTATION.md) for the api usage
 
 
