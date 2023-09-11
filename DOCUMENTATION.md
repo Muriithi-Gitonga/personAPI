@@ -12,9 +12,9 @@ If you are using a local server, the base url will be `http://localhost:3000/` b
 | --- | --- | --- | --- |
 | `/` | Home | The home page of the api | `GET` |
 | `/api` | Create | Create a new person | `POST` |
-| `/api/:id` | Read | Get a single person | `GET` |
-| `/api/:id` | Update | Update a single person | `PUT` |
-| `/api/:id` | Delete | Delete a single person | `DELETE` |
+| `/api/:user_id` | Read | Get a single person | `GET` |
+| `/api/:user_id` | Update | Update a single person | `PUT` |
+| `/api/:user_id` | Delete | Delete a single person | `DELETE` |
 
 ### Create a new person
 - Endpoint: `/api`
