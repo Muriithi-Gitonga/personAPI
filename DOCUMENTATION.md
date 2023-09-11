@@ -3,9 +3,9 @@
 Welcome to the documentation for personAPI. This API allows you to create, read, update and delete person from a database.
 
 ## Getting Started
-Base URL: `https://userapi-production-741d.up.railway.app/`
+Base URL: `https://userapi-production-741d.up.railway.app`
 
-If you are using a local server, the base url will be `http://localhost:3000/` be sure to check the [README](README.md) on how to start the project.
+If you are using a local server, the base url will be `http://localhost:3000` be sure to check the [README](README.md) on how to start the project.
 
 ## API Endpoints
 | Endpoint | Functionality | Description | HTTP method |
