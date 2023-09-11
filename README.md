@@ -95,8 +95,6 @@ The people table is used to manage person data within the application. Person ca
 ## People table
 
 
-
-
 | Column Name | Data Type | Constraints |
 | ----------- | --------- | ----------- |
 | id          | integer   | primary key |
