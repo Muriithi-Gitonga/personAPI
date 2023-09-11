@@ -81,6 +81,4 @@ test:
 #
 production:
   <<: *default
-  database: hng_task2_production
-  username: hng_task2
-  password: <%= ENV["HNG_TASK2_DATABASE_PASSWORD"] %>
+  url: <%= ENV["DATABASE_URL"] %>

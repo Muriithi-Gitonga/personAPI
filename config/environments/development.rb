@@ -38,6 +38,9 @@ Rails.application.configure do
 
   config.action_mailer.perform_caching = false
 
+  config.hosts << "userAPI-production.up.railway.app"
+
+
   # Print deprecation notices to the Rails logger.
   config.active_support.deprecation = :log
 
