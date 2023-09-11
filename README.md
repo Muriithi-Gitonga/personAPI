@@ -1,4 +1,4 @@
-# userAPI
+# personAPI
 This is a simple REST API capable of CRUD operations on a "person" resource
 
 ## Technologies Used
@@ -38,6 +38,9 @@ You can set up this repository by following this manual
    http://localhost:3000
    ```
 
+  **Alternatively the api is hosted on railway and can be accessed [here](https://userapi-production-741d.up.railway.app/)**
+
+See [API Documentation](DOCUMENTATION.md) for the api usage
 
 
 ## Database Setup
